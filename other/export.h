@@ -5,7 +5,7 @@
 #include "module1.h"
 #include "module2.h"
 #include "module3.h"
-#ifdefined EXPORT
+#if defined EXPORT
 #define exp __declspec(dllexport)
 #else
 #define exp __declspec(dllimport)
