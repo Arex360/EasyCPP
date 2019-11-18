@@ -5,3 +5,8 @@ __Created by:__ Muhammad Owais \
 - Ayesha Hakim
 
 # Documentation
+
+'''
+#include "EasyCPP.h"
+use echo
+'''
