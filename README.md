@@ -1,5 +1,5 @@
 # EasyCPP
 
-** Created by: ** Muhammad Owais
-** Contributers: **
-*Ayesha Hakim
+__Created by:__ Muhammad Owais
+**Contributers:**
+-Ayesha Hakim
