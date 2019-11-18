@@ -6,7 +6,7 @@ __Created by:__ Muhammad Owais \
 
 # Documentation
 
-'''
+```
 #include "EasyCPP.h"
 use echo
-'''
+```
