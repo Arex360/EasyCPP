@@ -2,7 +2,7 @@
 
 __Created by:__ Muhammad Owais \
 **Contributers:**
-- Dr. Ayesha Hakim
+- @Dr. Ayesha Hakim
 
 # Documentation
 
